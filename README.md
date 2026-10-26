@@ -23,5 +23,4 @@ Rapid On-Site Assembly: Modular units arrive on-site and are erected using heavy
 Thermal & Energy Efficiency: Solar roof panels, battery energy storage systems (BESS), and closed-loop water treatment ensure grid resilience and reduced operating costs.
 Scalability: Facility capacity can be expanded horizontally or vertically in increment modules without disrupting active operations.
 
-
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
