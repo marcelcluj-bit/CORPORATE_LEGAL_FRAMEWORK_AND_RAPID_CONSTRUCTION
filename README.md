@@ -1,3 +1,18 @@
+GLOBAL CORPORATE & LEGAL ARCHITECTURE
+To ensure seamless legal compliance, sovereign state integration, and maximum capital efficiency, the project operates under a two-tiered corporate holding structure.
+
++-----------------------------------+ | INTERNATIONAL HOLDING | | (IP, Web3 Protocol, Governance) | +-----------------+-----------------+ | | Licensing & RWA Tokenomics v +-----------------+-----------------+ | NATIONAL SPV OPERATOR | | (Local Concession / PPP Entity) | +-----------------+-----------------+ | +--------------------------+--------------------------+ | | v v +-----------------------+ +-------------------+ | STATE ALLOCATION | | PRIVATE CAPITAL | | (Per-Inmate Escrow) | | (Tokenized RWA) | +-----------------------+ +-------------------+
+
+A. International Holding (IP & Governance)
+Role: Manages core technology, smart contract infrastructure, tokenomics design, and global brand licensing.
+Capital Attraction: Issues RWA-backed utility tokens and security tokens to international institutional and retail investors.
+Jurisdiction: Positioned in an established digital-asset and corporate-friendly jurisdiction.
+B. Special Purpose Vehicle (SPV / Local Entity)
+Role: A locally incorporated entity in the target jurisdiction (e.g., Romania) that enters into Public-Private Partnerships (PPP) or long-term concession agreements with the Ministry of Justice / National Administration of Penitentiaries.
+Revenue Model: Receives statutory per-inmate daily operational allowances directly into designated smart escrow accounts upon facility reception.
+
+
+
 # CORPORATE_LEGAL_FRAMEWORK_AND_RAPID_CONSTRUCTION
 CORPORATE_LEGAL_FRAMEWORK_AND_RAPID_CONSTRUCTION
 Technical Specifications:
